@@ -25,7 +25,9 @@ The Car24 Power BI Dashboard project focuses on transforming vehicle sales data 
 
 ## Dashboard Overview
 Dashboard: https://github.com/Adarsh2701/Car24-Power-BI-Dashboard/blob/main/Dashboard.png
+
 Pre Sales Dashboard: https://github.com/Adarsh2701/Car24-Power-BI-Dashboard/blob/main/Pre%20Sales.png
+
 Total Budget Dashboard: https://github.com/Adarsh2701/Car24-Power-BI-Dashboard/blob/main/Total%20Budget.png
 
 The Car24 Power BI Dashboard includes the following features:
